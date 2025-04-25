@@ -44,7 +44,7 @@
 
 **New Items:**
 
-- `SmartRangedDistance`
+- `SmartRangeDistance`
   - **X** = Unit Attack Distance
   - **Y** = Weapon Distance 
   - **Z** = Always Attack (0 = false, 1 = true)  
