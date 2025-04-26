@@ -53,15 +53,22 @@
 - `SmartUnitBalanceModifier`  
   - **X** = Static Force Multiplier
   - **Y** = Overall Multiplier 
-  - **Z** = Gravity  
+  - **Z** = Gravity
+- `SmartSFXManager`
+  - **X** = Pitch
+  - **Y** = Volume
+  - **Z** = Category
+  - **Position X** = Effect
 - `SmartUnitVocalManager`  
-  - **X** = Pitch  
-  - **Y** = Volume  
-  - **Z** = Index  
+  - **X** = Pitch
+  - **Y** = Volume
+  - **Z** = Category
+  - **Position X** = Effect
 - `SmartUnitWeaponSoundManager`  
-  - **X** = Pitch  
-  - **Y** = Volume  
-  - **Z** = Index  
+  - **X** = Pitch
+  - **Y** = Volume
+  - **Z** = Category
+  - **Position X** = Effect
 - `SmartUnitRigidbodyLimiter`  
   - **X** = Max velocity
   - **Y** = Max angular velocity
