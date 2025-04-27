@@ -39,7 +39,7 @@
   - For all weapons  
   - For all projectiles  
   - For all units  
-- All halved/nulify/doubled items and custom transformations are now Smart items.  
+- All halved/nulify/doubled items and some custom transformations are now Smart items.  
 - Some smart items changed into multiplier instead of actual value from their modified components for easier implementation. Affected usually those whose value is like 1000+ like SmartMeleeSet.
 
 **New Items:**
