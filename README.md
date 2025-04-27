@@ -8,7 +8,6 @@
 - Fixed `SmartLeft/RightMagSet` only affecting magazine size after reloading.  
 - TI items that were limited to specific unit bases are now unlimited.  
 - Fixed `SmartProjSet` not working properly.  
-- On-hit effect damage now scales with the unit’s damage multiplier.  
 - Converted `summonRider` item to `SmartSummonRider`.  
 - `TransformAddDelay` removed; all transformed items are now Smart.  
 - Fixed transformation to rider on death not working due to an unticked variable.  
