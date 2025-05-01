@@ -1,3 +1,8 @@
+#### (1.0.13)
+
+- Turned off some unnecessary debug I noticed.
+- Rider transform conditioning optimization, might aswell.
+
 #### (1.0.12)
 
 - Geezt is an ole basterd, he owes me 2 bucks, unbelivable :(
