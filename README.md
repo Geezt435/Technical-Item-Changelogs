@@ -1,3 +1,17 @@
+#### (1.0.12)
+
+- Geezt is an ole basterd, he owes me 2 bucks, unbelivable :(
+- Fixed `MeleeAddStick` not sticking.
+- Created an item to change the `MovementComponent`.
+- Added `BodyPartScale{RigType}` which changed rigidbody instead.
+- Fixed `SmartMeleeAddDash` not working or having too much force by setting up default properly.
+- Fixed Sound Delay from `SmartRangedSet` not aligning by not setting it.
+- Fixed `DisableUnitOutline` by making it delete every component with outline named in it.
+- Fixed item with temporary changes to projectiles isnt registered to adaptive or spawned units
+- Fixed `SmartOnHitWeaponEffect` being mad sus (doesn't works on collision before).
+- `Placeholder Box` now has `Sphere` and `Pyramid` variant.
+- Fixed `Smart Healing` Z Scale being ignored.  
+
 #### (1.0.11)
 
 **Fixes & Changes:**
