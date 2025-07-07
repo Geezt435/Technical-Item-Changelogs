@@ -1,3 +1,12 @@
+#### (1.0.14)
+
+- Fixed issue with **SmartUnitDupe**.
+- Added some wiki items missing.
+- Fixed some **XYZ** scaling not properly connected.
+- Fix spawned unit not following the spawner blueprint for some cases.
+- Found the answer for pyramid not appearing, because some items got smaller due to processing. (Client end simply need to rescale at min **20**).
+- Created Harmony patch that enables unit base like **Cannon** have props.
+
 #### (1.0.13)
 
 - Turned off some unnecessary debug I noticed.
