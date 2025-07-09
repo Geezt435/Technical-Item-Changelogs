@@ -1,3 +1,7 @@
+#### (1.0.15)
+
+- Fixed some spawning become endless battle due to temporary unit not detected or unalived properly.
+
 #### (1.0.14)
 
 - Fixed issue with **SmartUnitDupe**.
