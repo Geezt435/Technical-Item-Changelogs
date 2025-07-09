@@ -7,6 +7,7 @@
 - Found the answer for pyramid not appearing, because some items got smaller due to processing. (Client end simply need to rescale at min **20**).
 - Created Harmony patch that enables unit base like **Cannon** have props. Added **MakeBaseHaveProp** ability to enable it.
 - Added variant for **SmartWeaponScaling** which is static and dynamic.
+- Fixed **SmartSummonRider** keep spawning unit out of death.
 
 #### (1.0.13)
 
