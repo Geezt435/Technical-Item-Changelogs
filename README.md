@@ -1,3 +1,10 @@
+#### (1.0.16)
+
+- Fixed **AdaptiveOrbCasting** not working.
+- Fixed **SmartMagSet** wiki had some information that isn't told.
+- Fixed **SmartProjSet** velocity affect the velocity instead of self impulse variable.
+- Added reverse bear trap to Geezt's head if he ever tell me to change anything, unfortunately... he escaped in 0.01ms :/
+
 #### (1.0.15)
 
 - Fixed some spawning become endless battle due to temporary unit not detected or unalived properly.
