@@ -1,6 +1,7 @@
 #### (1.0.17)
 
 - Changed some ids so it won't collide with inner **ID**s. If you ask, yes this is mandatory, sorry for the inconvenience but this must be done so the mod runs correctly.
+- New item **SmartAdaptiveProjSpawner** for smart projectile spawning.
 - Fixed **Smart{WeaponSide}MagSet** not working.
 - Placeholder **Pyramid** for arms, hands, legs, and foots are now additionally multiplied for better visibility for adjusting.
 - Renamed **SmartMovingProp** into **SetPropRotatingPerpetual**.
