@@ -1,13 +1,30 @@
+#### (1.0.17)
+
+- Changed some ids so it won't collide with inner **ID**s. If you ask, yes this is mandatory, sorry for the inconvenience but this must be done so the mod runs correctly.
+- Fixed **Smart{WeaponSide}MagSet** not working.
+- Placeholder **Pyramid** for arms, hands, legs, and foots are now additionally multiplied for better visibility for adjusting.
+- Renamed **SmartMovingProp** into **SetPropRotatingPerpetual**.
+- Added new item **SetPropRotationStatic**, which is the static version of **SetPropRotatingPerpetual**.
+- All movement type is removed and replaced into a new single item, **SmartKeepDistance**.
+- Some items that causing memories issue like **Adaptive** and **ForceSkinChange** item is made more optimized.
+- **HideAbilityModel** item now affect object that is separated with *SetParent*.
+- **FusionWithRider** is changed to use custom spawner instead using in-game unit spawner component.
+- Renamed **MoreRider** to **SmartMoreRider** and given more optimization.
+- Added new item called **SmartCustomRider** for original rider position.
+- Added **3** new items to edit skinned props.
+- Added new item to make melee weapon throw itself called **ThrowMeleeWeapon**.
+- Added a spring-trap mechanic to **Geezt**'s mechanical keyboard, and to add into the machination, I told **Johnny Dawnedson** to slam his head to the keyboard if he ever dare to touch this mod again.
+
 #### (1.0.16)
 
 - Fixed **AdaptiveOrbCasting** not working.
 - Fixed **SmartMagSet** wiki had some information that isn't told.
 - Fixed **SmartProjSet** velocity affect the velocity instead of self impulse variable.
-- Added reverse bear trap to Geezt's head if he ever tell me to change anything, unfortunately... he escaped in 0.01ms :/
+- Added reverse bear trap to **Geezt**'s head if he ever tell me to change anything, unfortunately... he escaped in 0.01ms :/
 
 #### (1.0.15)
 
-- Fixed some spawning become endless battle due to temporary unit not detected or unalived properly.
+- Fixed some spawning become endless battle due to temporary unit not detected or killed properly.
 
 #### (1.0.14)
 
