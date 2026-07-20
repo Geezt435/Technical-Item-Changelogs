@@ -1,3 +1,7 @@
+#### (1.0.18)
+
+- Removed the **3** new items to edit skinned props. Separated into different mod due to possibilities to cause disproportionate skin bone to some abilities and props.
+
 #### (1.0.17)
 
 - Changed some ids so it won't collide with inner **ID**s. If you ask, yes this is mandatory, sorry for the inconvenience but this must be done so the mod runs correctly.
